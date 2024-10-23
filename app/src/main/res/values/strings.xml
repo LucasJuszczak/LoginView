@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginView</string>
+    <string name="email">E-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="login">LOGIN</string>
+    <string name="cadastro">Ainda não é cadastrado? Cadastre-se</string>
+</resources>
