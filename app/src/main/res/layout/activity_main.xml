@@ -57,13 +57,16 @@
         android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="32dp" />
-    
+        android:layout_margin="32dp"
+        android:src="@drawable/ic_help" />
+
     <TextView
         android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginBottom="24dp" />
+        android:layout_marginStart="57dp"
+        android:layout_marginBottom="24dp"
+        android:padding="10dp"
+        android:text="@string/esqueceu"/>
 
 </RelativeLayout>
